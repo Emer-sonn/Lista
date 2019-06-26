@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas.Android\\Listas.Android.csproj": {}
+    "E:\\Listar\\Lista\\Listas\\Listas\\Listas.Android\\Listas.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas.Android\\Listas.Android.csproj": {
+    "E:\\Listar\\Lista\\Listas\\Listas\\Listas.Android\\Listas.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas.Android\\Listas.Android.csproj",
+        "projectUniqueName": "E:\\Listar\\Lista\\Listas\\Listas\\Listas.Android\\Listas.Android.csproj",
         "projectName": "Listas.Android",
-        "projectPath": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas.Android\\Listas.Android.csproj",
+        "projectPath": "E:\\Listar\\Lista\\Listas\\Listas\\Listas.Android\\Listas.Android.csproj",
         "packagesPath": "C:\\Users\\Emersonn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas.Android\\obj\\",
+        "outputPath": "E:\\Listar\\Lista\\Listas\\Listas\\Listas.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\Listas.csproj": {
-                "projectPath": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\Listas.csproj"
+              "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\Listas.csproj": {
+                "projectPath": "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\Listas.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\Listas.csproj": {
+    "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\Listas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\Listas.csproj",
+        "projectUniqueName": "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\Listas.csproj",
         "projectName": "Listas",
-        "projectPath": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\Listas.csproj",
+        "projectPath": "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\Listas.csproj",
         "packagesPath": "C:\\Users\\Emersonn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\obj\\",
+        "outputPath": "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

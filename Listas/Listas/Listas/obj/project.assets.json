@@ -728,11 +728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\Listas.csproj",
+      "projectUniqueName": "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\Listas.csproj",
       "projectName": "Listas",
-      "projectPath": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\Listas.csproj",
+      "projectPath": "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\Listas.csproj",
       "packagesPath": "C:\\Users\\Emersonn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emersonn\\source\\repos\\Listas\\Listas\\Listas\\obj\\",
+      "outputPath": "E:\\Listar\\Lista\\Listas\\Listas\\Listas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
